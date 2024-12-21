@@ -27,10 +27,3 @@ This repository serves as a central hub for managing and linking the various com
 - **Consistency**: Ensures that mobile, desktop, and server-side codebases stay aligned.  
 - **Scalability**: The system is designed to handle increasing amounts of data and add more sensors or clients as needed.  
 
----
-
-For installation and setup instructions, check out the individual repositories:
-- [Mobile Client Setup Guide](https://github.com/Fr33yr/NodeMCU_MobileClient)
-- [Desktop Client Setup Guide](https://github.com/Fr33yr/NodeMCU_Desktop_Client)
-- [Server Setup Guide](https://github.com/Fr33yr/NodeMCU-local-server)
-- [NodeMCU Setup Guide](https://github.com/Fr33yr/NodeMCU_Board)
