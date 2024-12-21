@@ -5,22 +5,22 @@ This repository serves as a central hub for managing and linking the various com
 ## 📱 Mobile Client  
 **Built with**: Kotlin (Jetpack Compose)  
 **Purpose**: Provides a responsive and intuitive interface to display real-time data collected from the NodeMCU. Allows users to interact with the system on the go.  
-- **Repository**: [Mobile Client Repo]([<link-to-mobile-repo>](https://github.com/Fr33yr/NodeMCU_MobileClient))  
+- **Repository**: [Mobile Client Repo](https://github.com/Fr33yr/NodeMCU_MobileClient)  
 
 ## 🖥️ Desktop Client  
 **Built with**: Tauri and React  
 **Purpose**: Desktop version for a more immersive data visualization experience using React charts, leveraging the performance of Tauri to create lightweight yet powerful applications.  
-- **Repository**: [Desktop Client Repo]([<link-to-desktop-repo>](https://github.com/Fr33yr/NodeMCU_Desktop_Client))  
+- **Repository**: [Desktop Client Repo](https://github.com/Fr33yr/NodeMCU_Desktop_Client) 
 
 ## 🖧 Node.js Server  
 **Built with**: Node.js (Express)  
 **Purpose**: Acts as the backend, handling communication between clients and the NodeMCU. Responsible for data storage, processing, and ensuring consistent synchronization across platforms. Uses Socket.IO for real-time data visualization.  
-- **Repository**: [Server Repo]([<link-to-server-repo>](https://github.com/Fr33yr/NodeMCU-local-server))  
+- **Repository**: [Server Repo](https://github.com/Fr33yr/NodeMCU-local-server)
 
 ## 🔌 NodeMCU Firmware  
 **Built with**: C++ (Arduino Framework)  
 **Purpose**: Directly interfaces with sensors and hardware, collecting data and sending it to the server. Forms the core of the data acquisition process.  
-- **Repository**: [NodeMCU Firmware Repo]([<link-to-nodemcu-repo>](https://github.com/Fr33yr/NodeMCU_Board))  
+- **Repository**: [NodeMCU Firmware Repo](https://github.com/Fr33yr/NodeMCU_Board) 
 
 ## 🔗 Project Goals  
 - **Seamless Integration**: All components work together to provide accurate, real-time data visualization.  
