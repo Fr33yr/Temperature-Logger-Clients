@@ -8,11 +8,11 @@ This repository serves as a central hub for managing and linking the various com
 
 ## 🖥️ Desktop Client  
 **Built with**: Tauri and React  
-**Purpose**: Desktop version for a more immersive data visualization experience using react charts, leveraging the performance of Tauri to create lightweight yet powerful applications.
+**Purpose**: Desktop version for a more immersive data visualization experience using React charts, leveraging the performance of Tauri to create lightweight yet powerful applications.  
 
 ## 🖧 Node.js Server  
 **Built with**: Node.js (Express)  
-**Purpose**: Acts as the backend, handling communication between clients and the NodeMCU. Responsible for data storage, processing, and ensuring consistent synchronization across platforms. Using socket io for realtime data visialization.  
+**Purpose**: Acts as the backend, handling communication between clients and the NodeMCU. Responsible for data storage, processing, and ensuring consistent synchronization across platforms. Uses Socket.IO for real-time data visualization.  
 
 ## 🔌 NodeMCU Firmware  
 **Built with**: C++ (Arduino Framework)  
